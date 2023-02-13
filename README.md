@@ -30,4 +30,4 @@ Project 3 - World Coffee Consumption by Continent:
 Market conclusion about the coffee data: Brazil dominates the exporting marketing and the production market, there is no other country that comes close to the same amount of production and exportation that Brazil has.
 In general, the countries that have the highest exporting rate have the lowest importing rate, which was expected. 
 When analyzing the coffee consumption by continent, the data showed that South America is in 4th place, behind Europe, Asia & Oceania, and North America, which was surprising considering that Brazil is in South America and is the country that has the highest coffee production rate.
-Those visualizations are a good tool to explore market advantages, create sales and marketing strategies for each country, define which country will be a better place to open a coffee business, for example, and much more.
+Those visualizations are good tools to explore market advantages, create sales and marketing strategies for each country, define which country will be a better place to open a coffee business, for example, and much more.
