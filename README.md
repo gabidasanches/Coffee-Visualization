@@ -4,6 +4,8 @@ Gathered data from the International Coffee Organization (ICO) website;
 Transformed the pdf data into an excel spreadsheet; Cleaned the tables and decided which information I was going to use for my visualizations;
 Used Tableau to create the visualizations.
 
+#All the values used for te visualization are In thousand 60kg bags, according to the original data. (ICO)
+
 Project 1 - Coffee Production by Country:
 - Cleaned the data and gathered the necessary information.
 - Utilized the countries and the amount of coffee produced each year (2017, 2018, 2019, 2020) to create different visualizations.
