@@ -28,6 +28,9 @@ Visual 1: ![Tableau - Exporting Countries Map](https://user-images.githubusercon
 - https://public.tableau.com/app/profile/gabriele.sanches/viz/CoffeeData-ImportingandExportingCountries/Sheet6
 
 # Project 3 - World Coffee Consumption by Continent: 
+
+Visual 1: <img width="489" alt="Screenshot 2023-02-20 at 7 49 17 PM" src="https://user-images.githubusercontent.com/123784158/220220860-b7c01736-53a2-4d05-96d9-5da8988ea30b.png">
+
 - Cleaned the data and gathered the necessary information.
 - The data shows the coffee consumption worldwide by continent. 
 - Created bar graphs to visualize the average consumption in each continent in 2017/18, 2018/19, 2019/20, and 2020/21.
