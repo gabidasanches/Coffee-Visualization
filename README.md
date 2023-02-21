@@ -7,7 +7,7 @@ Used Tableau to create the visualizations.
 #All the values used for te visualization are In thousand 60kg bags, according to the original data. (ICO)
 
 Project 1 - Coffee Production by Country:
-![Tableau - Coffee Production Worldwide 2017](https://user-images.githubusercontent.com/123784158/220204512-c088ffda-5909-408e-9fcb-88668e1d8e2c.png)
+Visual 1: ![Screenshot 2023-02-20 at 7 02 11 PM](https://user-images.githubusercontent.com/123784158/220215333-732b9aa8-0a8e-4aa5-aae9-977d67739f1e.png)
 
 - Cleaned the data and gathered the necessary information.
 - Utilized the countries and the amount of coffee produced each year (2017, 2018, 2019, 2020) to create different visualizations.
