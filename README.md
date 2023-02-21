@@ -6,7 +6,8 @@ Used Tableau to create the visualizations.
 
 #All the values used for te visualization are In thousand 60kg bags, according to the original data. (ICO)
 
-Project 1 - Coffee Production by Country:
+# Project 1 - Coffee Production by Country:
+
 Visual 1: ![Screenshot 2023-02-20 at 7 02 11 PM](https://user-images.githubusercontent.com/123784158/220215333-732b9aa8-0a8e-4aa5-aae9-977d67739f1e.png)
 
 - Cleaned the data and gathered the necessary information.
@@ -16,7 +17,10 @@ Visual 1: ![Screenshot 2023-02-20 at 7 02 11 PM](https://user-images.githubuserc
 - https://public.tableau.com/app/profile/gabriele.sanches/viz/CoffeeProductionbyCountry/Sheet4
 
 
-Project 2 - Coffee Data - Importing and Exporting Countries:
+# Project 2 - Coffee Data - Importing and Exporting Countries:
+
+Visual 1: 
+
 - Cleaned the data and gathered the necessary information.
 - The original data showed all the importing countries, all the exporting countries, and the World coffee consumption. For this visualization, I used the original data to create two separate tables, one for exporting countries and one for importing countries.
 - Created bar graphs to show the amount of coffee exported by each country and the amount of coffee imported by each country. Created two world map visualizations that allowed me to clearly see the data spread out and which countries are exporting coffee and which are importing.
