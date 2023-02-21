@@ -29,7 +29,8 @@ Visual 1: ![Tableau - Exporting Countries Map](https://user-images.githubusercon
 
 # Project 3 - World Coffee Consumption by Continent: 
 
-Visual 1: <img width="489" alt="Screenshot 2023-02-20 at 7 49 17 PM" src="https://user-images.githubusercontent.com/123784158/220220860-b7c01736-53a2-4d05-96d9-5da8988ea30b.png">
+Visual 1:
+<img width="489" alt="Screenshot 2023-02-20 at 7 49 17 PM" src="https://user-images.githubusercontent.com/123784158/220220860-b7c01736-53a2-4d05-96d9-5da8988ea30b.png">
 
 - Cleaned the data and gathered the necessary information.
 - The data shows the coffee consumption worldwide by continent. 
