@@ -14,7 +14,7 @@ Used Tableau to create the visualizations.
 - Utilized the countries and the amount of coffee produced each year (2017, 2018, 2019, 2020) to create different visualizations.
 - Created a vertical bar graph, a horizontal bar graph, a line graph, and a map to show the data for each year
 - Conclusion: Brazil is the country that produced the highest amount of coffee in the four years according to the ICO data, followed by Vietnam. Brazil produced, on average, almost more than 50% of what Vietnam produced.
-- https://public.tableau.com/app/profile/gabriele.sanches/viz/CoffeeProductionbyCountry/
+- https://public.tableau.com/app/profile/gabriele.sanches/viz/CoffeeProductionbyCountry/Sheet4 
 
 
 # Second Analysis - Coffee Data - Importing and Exporting Countries:
