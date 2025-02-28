@@ -14,7 +14,7 @@ Used Tableau to create the visualizations.
 - Utilized the countries and the amount of coffee produced each year (2017, 2018, 2019, 2020) to create different visualizations.
 - Created a vertical bar graph, a horizontal bar graph, a line graph, and a map to show the data for each year
 - Conclusion: Brazil is the country that produced the highest amount of coffee in the four years according to the ICO data, followed by Vietnam. Brazil produced, on average, almost more than 50% of what Vietnam produced.
-- https://public.tableau.com/app/profile/gabriele.sanches/viz/CoffeeProductionbyCountry/Sheet4
+- https://public.tableau.com/app/profile/gabriele.sanches/viz/CoffeeProductionbyCountry/
 
 
 # Second Analysis - Coffee Data - Importing and Exporting Countries:
@@ -27,15 +27,15 @@ Used Tableau to create the visualizations.
 - Conclusion: Brazil is the country that exports the highest amount of coffee yearly (avg 22,149). The European Union has the highest importing rate (avg: 40,567), followed by the United States of America (avg: 26,876).
 - https://public.tableau.com/app/profile/gabriele.sanches/viz/CoffeeData-ImportingandExportingCountries/
 
-# Thrid Analysis - World Coffee Consumption by Continent: 
+# Thrid Analysis - Global Coffee Consumption by Continent: 
 
-<img width="489" alt="Screenshot 2023-02-20 at 7 49 17 PM" src="https://user-images.githubusercontent.com/123784158/220220939-98871f73-a1f5-47b1-9663-8e4e50a42c36.png">
+![image](https://github.com/user-attachments/assets/724bc7ef-c916-4788-9a28-dfaa406462d1)
 
 - Cleaned the data and gathered the necessary information.
 - The data shows the coffee consumption worldwide by continent. 
 - Created bar graphs to visualize the average consumption in each continent in 2017/18, 2018/19, 2019/20, and 2020/21.
 - Conclusion: Europe is the continent that consumes the highest amount of coffee among the 6 continents analyzed with the data. 
-- https://public.tableau.com/app/profile/gabriele.sanches/viz/WorldCoffeeConsumptionbyContinent/Sheet4
+- https://public.tableau.com/app/profile/gabriele.sanches/viz/WorldCoffeeConsumptionbyContinent/
 
 
 Market conclusion about the coffee data: Brazil dominates the exporting marketing and the production market, there is no other country that comes close to the same amount of production and exportation that Brazil has.
