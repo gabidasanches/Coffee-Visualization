@@ -8,7 +8,7 @@ Used Tableau to create the visualizations.
 
 # First Analysis - Coffee Production by Country:
 
-Visual 1: ![Screenshot 2023-02-20 at 7 02 11 PM](https://user-images.githubusercontent.com/123784158/220215333-732b9aa8-0a8e-4aa5-aae9-977d67739f1e.png)
+![Screenshot 2023-02-20 at 7 02 11 PM](https://user-images.githubusercontent.com/123784158/220215333-732b9aa8-0a8e-4aa5-aae9-977d67739f1e.png)
 
 - Cleaned the data and gathered the necessary information.
 - Utilized the countries and the amount of coffee produced each year (2017, 2018, 2019, 2020) to create different visualizations.
@@ -19,7 +19,7 @@ Visual 1: ![Screenshot 2023-02-20 at 7 02 11 PM](https://user-images.githubuserc
 
 # Second Analysis - Coffee Data - Importing and Exporting Countries:
 
-Visual 1: ![Tableau - Exporting Countries Map](https://user-images.githubusercontent.com/123784158/220220128-ff0b234d-6217-4c80-a536-35e822d69459.png)
+![Tableau - Exporting Countries Map](https://user-images.githubusercontent.com/123784158/220220128-ff0b234d-6217-4c80-a536-35e822d69459.png)
 
 - Cleaned the data and gathered the necessary information.
 - The original data showed all the importing countries, all the exporting countries, and the World coffee consumption. For this visualization, I used the original data to create two separate tables, one for exporting countries and one for importing countries.
@@ -29,7 +29,6 @@ Visual 1: ![Tableau - Exporting Countries Map](https://user-images.githubusercon
 
 # Thrid Analysis - World Coffee Consumption by Continent: 
 
-Visual 1: 
 <img width="489" alt="Screenshot 2023-02-20 at 7 49 17 PM" src="https://user-images.githubusercontent.com/123784158/220220939-98871f73-a1f5-47b1-9663-8e4e50a42c36.png">
 
 - Cleaned the data and gathered the necessary information.
