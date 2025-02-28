@@ -8,7 +8,7 @@ Used Tableau to create the visualizations.
 
 # First Analysis - Coffee Production by Country:
 
-![Screenshot 2023-02-20 at 7 02 11 PM](https://user-images.githubusercontent.com/123784158/220215333-732b9aa8-0a8e-4aa5-aae9-977d67739f1e.png)
+![image](https://github.com/user-attachments/assets/17ad9b2f-445a-42e8-b062-228ee4e26df2)
 
 - Cleaned the data and gathered the necessary information.
 - Utilized the countries and the amount of coffee produced each year (2017, 2018, 2019, 2020) to create different visualizations.
