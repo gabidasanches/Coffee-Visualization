@@ -1,4 +1,4 @@
-# Coffee-Visualization
+# Coffee Market Analysis: Production, Trade, and Consumption
 
 Gathered data from the International Coffee Organization (ICO) website;
 Transformed the pdf data into an excel spreadsheet; Cleaned the tables and decided which information I was going to use for my visualizations;
@@ -38,7 +38,9 @@ Used Tableau to create the visualizations.
 - https://public.tableau.com/app/profile/gabriele.sanches/viz/WorldCoffeeConsumptionbyContinent/Sheet4
 
 
-Market conclusion about the coffee data: Brazil dominates the exporting marketing and the production market, there is no other country that comes close to the same amount of production and exportation that Brazil has.
+# Market Conclusion
+
+Brazil dominates the exporting marketing and the production market, there is no other country that comes close to the same amount of production and exportation that Brazil has.
 In general, the countries that have the highest exporting rate have the lowest importing rate, which was expected. 
 When analyzing the coffee consumption by continent, the data showed that South America is in 4th place, behind Europe, Asia & Oceania, and North America, which was surprising considering that Brazil is in South America and is the country that has the highest coffee production rate.
 Those visualizations are good tools to explore market advantages, create sales and marketing strategies for each country, define which country will be a better place to open a coffee business, for example, and much more.
