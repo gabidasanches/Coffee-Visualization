@@ -19,13 +19,13 @@ Used Tableau to create the visualizations.
 
 # Second Analysis - Coffee Data - Importing and Exporting Countries:
 
-![Tableau - Exporting Countries Map](https://user-images.githubusercontent.com/123784158/220220128-ff0b234d-6217-4c80-a536-35e822d69459.png)
+![image](https://github.com/user-attachments/assets/a8e80546-fa0d-411b-8850-18f50bc0b9e7)
 
 - Cleaned the data and gathered the necessary information.
 - The original data showed all the importing countries, all the exporting countries, and the World coffee consumption. For this visualization, I used the original data to create two separate tables, one for exporting countries and one for importing countries.
 - Created bar graphs to show the amount of coffee exported by each country and the amount of coffee imported by each country. Created two world map visualizations that allowed me to clearly see the data spread out and which countries are exporting coffee and which are importing.
 - Conclusion: Brazil is the country that exports the highest amount of coffee yearly (avg 22,149). The European Union has the highest importing rate (avg: 40,567), followed by the United States of America (avg: 26,876).
-- https://public.tableau.com/app/profile/gabriele.sanches/viz/CoffeeData-ImportingandExportingCountries/Sheet6
+- https://public.tableau.com/app/profile/gabriele.sanches/viz/CoffeeData-ImportingandExportingCountries/
 
 # Thrid Analysis - World Coffee Consumption by Continent: 
 
